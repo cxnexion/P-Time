@@ -12,6 +12,6 @@ npm install
 npm start
 ```
 
-Or check it live: 
+Or check it live: [GitHub Pages](https://cxnexion.github.io/P-Time/)
 
 Emoji graphics provided by the [Twemoji](https://github.com/twitter/twemoji) project, which is licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/). [1, 2]
